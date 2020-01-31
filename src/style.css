@@ -1,0 +1,10 @@
+body {
+    font-family: Lato;
+  }
+  
+  .App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
